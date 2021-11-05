@@ -1,3 +1,3 @@
 # Online-Voting-System
-## Platform: PHP, MySQL
+## Technologies used: HTML, CSS, JS, PHP, MySQL
 <img src="ovs.jpg">
